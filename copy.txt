@@ -1,3 +1,5 @@
 créé lors de l'init du projet
 
 ensuite je le modifie une fois dans le commit A
+
+puis je modifie depuis la branche local 
