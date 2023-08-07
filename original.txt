@@ -1,3 +1,0 @@
-créé lors de l'init du projet
-
-ensuite je le modifie une fois dans le commit A
